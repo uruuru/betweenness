@@ -10,6 +10,8 @@ Usage
 var nodes = [ 
     { id: 0, outEdges: [ 1 ] }, 
     { id: 1 } ];
+
+var betweenness = require("betweenness");
 betweenness.vertex().nodes(nodes).calc();
 ```
 
