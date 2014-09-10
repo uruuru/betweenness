@@ -1,6 +1,6 @@
 {
   "name": "betweenness",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculates the 'betweenness centrality' of a graph using Brandes' algorithm (On variants of shortest-path betweenness centrality and their generic computation [2008]).",
   "main": "betweenness.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository" : { 
     "type" : "git",
-    "url" : "http://github.com/uruuru/betweenness",
+    "url" : "http://github.com/uruuru/betweenness"
   },
   "devDependencies": { "test": ">=0.0.5" }
 }
