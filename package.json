@@ -8,11 +8,14 @@
   },
   "keywords": [
     "betweenness",
-    "betwenness",
     "centrality",
     "graph"
   ],
   "author": "Ulf Rueegg <uru@informatik.uni-kiel.de>",
   "license": "MIT",
+  "repository" : { 
+    "type" : "git",
+    "url" : "http://github.com/uruuru/betweenness",
+  },
   "devDependencies": { "test": ">=0.0.5" }
 }
